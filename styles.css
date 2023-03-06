@@ -861,7 +861,7 @@ img {
   color: var(--first-color);
 }
 
-.swiper-container .swiper-pagination-testimonial{
+.swiper .swiper-pagination-testimonial{
   bottom:0;
 }
 
